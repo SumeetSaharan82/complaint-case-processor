@@ -1,0 +1,15 @@
+flowchart TD
+    A["data/ folder<br/>(.txt, .pdf, .docx)"] --> B["Document Loader<br/>(document_loader.py)"]
+    B --> C{"For each document<br/>(parallel batch)"}
+
+    C --> D["Step 1: Structured Extraction<br/>(extractor.py)<br/>LLM + Pydantic schema"]
+    D --> E["Step 2: Customer Email<br/>(email_generator.py)"]
+    D --> F["Step 3: Internal Case Summary<br/>(summary_generator.py)"]
+
+    D --> G["output/structured_data/*.json"]
+    E --> H["output/customer_emails/*.txt"]
+    F --> I["output/case_summaries/*.txt"]
+
+    G --> J["Final Report Builder<br/>(report.py)"]
+    I --> J
+    J --> K["output/final_report.csv"]

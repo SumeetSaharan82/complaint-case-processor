@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+output/structured_data/*.json
+output/customer_emails/*.txt
+output/case_summaries/*.txt
+output/final_report.csv
+!output/structured_data/.gitkeep
+!output/customer_emails/.gitkeep
+!output/case_summaries/.gitkeep

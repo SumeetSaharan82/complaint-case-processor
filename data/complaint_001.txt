@@ -1,0 +1,28 @@
+Customer Complaint Form
+
+Customer Name: Ananya Rao
+Email: ananya.rao@example.com
+Phone: +91-9876543210
+
+Product/Service Involved: Premium Broadband Plan
+
+Complaint Description:
+I have been a subscriber of your Premium Broadband Plan for over a year. Since last
+week, my internet speed has dropped drastically to almost 10% of the promised
+speed during evening hours (7 PM to 11 PM). I have restarted the router multiple
+times as suggested by your helpline but the issue persists.
+
+Issue Details:
+Repeated speed drops during peak hours, ticket already raised twice with no
+permanent fix.
+
+Resolution Provided:
+A technician visit was scheduled for last Monday but no one showed up. I have not
+received any further update since then.
+
+Escalation Information:
+I would like this to be escalated to a senior network engineer as this is affecting
+my work-from-home setup.
+
+Supporting Information:
+I have attached speed test screenshots taken over the last 5 days.

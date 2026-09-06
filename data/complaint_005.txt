@@ -1,0 +1,13 @@
+Customer Feedback Form
+
+Name: Priya Nair
+Contact: priya.nair@example.com
+
+Product/Service: Mobile Banking App
+
+Message:
+Just wanted to say that the new update to the mobile banking app is fantastic! The
+UPI transfer flow is much faster now and the dark mode looks great. No issues to
+report. Keep up the good work.
+
+No resolution needed, no escalation required.
